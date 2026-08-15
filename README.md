@@ -1,0 +1,45 @@
+# Circuit Projects
+
+This repository contains my electronics and circuit projects, simulations, calculations, and practical experiments.
+
+## Projects
+
+### 01. Astable Multivibrator
+
+A transistor-based astable multivibrator that continuously switches between two states, producing an oscillating output.
+
+**Includes:**
+
+* Circuit calculations
+* Proteus simulation
+* Practical implementation
+* Demonstration video
+
+📁 `Astable-Multivibrator/`
+
+---
+
+## Structure
+
+Each project is organized into:
+
+```text
+Project/
+├── Calculations/
+├── Proteus-Simulation/
+├── Video/
+└── README.md
+```
+
+* **Calculations** → Circuit calculations and component selection.
+* **Proteus-Simulation** → Proteus projects, simulations, and screenshots.
+* **Video** → Demonstrations and explanations.
+* **README.md** → Documentation for the project.
+
+---
+
+## Goal
+
+The goal of this repository is to document my progress in electronics by building circuits, simulating them, calculating their values, and testing them practically.
+
+More projects will be added as I build and learn.
