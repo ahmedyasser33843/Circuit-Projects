@@ -25,16 +25,18 @@ Each project is organized into:
 
 ```text
 Project/
-├── Calculations/
-├── Proteus-Simulation/
-├── Video/
-└── README.md
+|-- Calculations/
+|-- Proteus-Simulation/
+|-- Video/
+|-- README.md
+|-- EXPLAIN.md
 ```
 
 * **Calculations** → Circuit calculations and component selection.
-* **Proteus-Simulation** → Proteus projects, simulations, and screenshots.
-* **Video** → Demonstrations and explanations.
+* **Proteus-Simulation** → Proteus projects, simulations.
+* **Video** → Demonstrations.
 * **README.md** → Documentation for the project.
+* **EXPLAIN.md** → Explanation of the circuit.
 
 ---
 
